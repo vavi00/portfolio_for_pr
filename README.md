@@ -5,6 +5,10 @@ Academic projects · Data analysis · System analysis
 **Skills**: Python (pandas, numpy, matplotlib, seaborn, scikit-learn) for data cleaning, preprocessing, and transformation; exploratory data analysis (EDA) to uncover trends and patterns; advanced data visualization (scatter plots, bar charts, histograms, heatmaps) to generate insights; statistical analysis and hypothesis testing; and predictive modeling (linear regression, classification) for data-driven decision making. Applied to academic and real-world datasets, including salaries, student performance, customer purchases, and product analytics, to produce actionable insights and support reporting and strategic planning.
 
 ----------------------------------------------------------------------------
+## Python & Dynamical Systems Analysis (exploration of chaose)
+**Skills**: Python (numpy, scipy, matplotlib, sympy, ipywidgets) for numerical simulation of continuous and discrete dynamical systems; trajectory computation, phase portraits, and 3D projections; analysis of stability using Jacobians, eigenvalues, and Lyapunov exponents; identification of chaotic and stable regimes; implementation of Benettin’s algorithm for largest Lyapunov exponent computation; interactive exploration of parameter spaces to study system behavior, bifurcations, and attractors. Applied to population dynamics, Lorenz system, logistic and cosine maps, and nonlinear 3D systems to visualize dynamics, quantify stability, and uncover chaos.
+
+----------------------------------------------------------
 
 ## Behavioristic Economics (some presentation were translated via google translate, you are welcome to reviewing the presentations)
 Skills: team cooperation, Data analysis & visualization (tables, charts, radar diagrams), quantitative & qualitative assessment of organizational processes, strategic & scenario planning, behavioral economics & decision-making modeling, game theory application in real-world enterprise contexts, financial diagnostics, risk assessment, and cost efficiency analysis, economic security evaluation & integrated reporting
@@ -17,3 +21,8 @@ Skills: team cooperation, Data analysis & visualization (tables, charts, radar d
 * Game Theory Applications: Nash equilibrium, cooperative/mixed strategies, repeated games, strategic scenario modeling.
 * Cost & Resource Analysis: Digital economy cost structure, resource optimization, efficiency assessment, technological update planning.
 * Economic Security Assessment: Indicator-based evaluation, integral security index, threshold vs. actual comparison, personnel & intellectual security analysis.
+
+------
+## Web-development
+
+**Skills**: web Development: HTML5, CSS3, JavaScript, responsive design, Flexbox, grid layouts, semantic HTML, UI/UX: interactive cards, hover effects, sidebar navigation, accessibility, Python & Data Analysis: NumPy, SciPy, Matplotlib, SymPy, ipywidgets, dynamical Systems: trajectory computation, phase portraits, 3D projections, stability analysis, Lyapunov exponents, bifurcations, chaos exploration, version Control & Deployment: Git, GitHub, GitHub Pages, project Organization: content structuring, documentation, interactive exploration
