@@ -3,4 +3,10 @@
 
 **Customer Purchase Data Analysis** – The goal of this project is to clean and process raw online retail data to calculate key customer metrics including total spending, purchase frequency, and recency.[Click here to view the notebook](online_retail_customer_analysis.ipynb)
 
+**Laptop Dataset Analysis** – Cleaned and analyzed laptop specifications and pricing data using Python (pandas, matplotlib, seaborn). Handled missing values, removed outliers, encoded categorical features, and explored correlations between price, RAM, hard disk, screen size, and brand. Generated visualizations including histograms, scatter plots, bar charts, and a heatmap to provide actionable insights.[Click here to view the notebook](analise_amazon_laptop_prices.ipynb)
+
+**Salary Prediction Analysis** – Analyzed salary vs. experience data using Python (pandas, matplotlib, seaborn, scikit-learn) to visualize trends, build a linear regression model, evaluate predictions, and identify patterns in experience-based salary growth.[Click here to view the notebook](salary-dataset-simple-lin_regression)
+
+**Data Science Job Salaries Analysis** – This notebook analyzes 2024 data science job salaries, exploring trends by experience level, job title, company size, and country. Visualizations highlight salary distributions, top/bottom paying roles, and workforce composition. Key insights include how experience impacts salary, which job titles and countries pay most, and the prevalence of roles and company sizes. Tools used: Python (pandas, matplotlib, seaborn).[Click here to view the notebook](analise_latest-data-science-job-salaries-2024)
+
 **Chocolate Sales Data Analysis**  – Analyzed chocolate sales data using Python (pandas, matplotlib, seaborn) to uncover trends by product, country, and salesperson, generate visual insights, and identify top-performing products and salespeople. [Click here to view the notebook](chocolate_sale_analise_group_project+summery.ipynb)
