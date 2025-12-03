@@ -1,3 +1,20 @@
+## Database & Software System Skills
+[Click here to check thesis material with all screenshots of implementation](thesis_JDBC_creation_of_student_db.pdf)
+1. Relational database design (logical and physical modeling), schema creation, normalization, and dependency mapping.
+2. SQL usage: creating tables, queries (SELECT, INSERT, UPDATE, DELETE), filtering, sorting, and data validation.
+3. Trigger implementation and integrity constraint management for business rules enforcement.
+4. Database connectivity in Java using JDBC for CRUD operations.
+5. Implementation of client-server architecture for database-driven applications.
+6. Data validation, type checking, and ensuring reliability through constraints and automated error handling.
+7. Interface integration: dynamically populating and updating tables from a database, search/filter functionality, and form-based data entry/editing.
+8. Experience with MySQL Workbench and local database deployment.
+9. Practical experience in linking software logic with database operations, including automation of table updates and view refresh.
+
+Applied to:
+Student management system tracking personal and marital status information.
+Dynamic CRUD operations, search, and sort functionality via JavaFX interface.
+Ensuring data integrity and user-friendly access to database information.
+---
 Database in my project represents a bookstore system
 [Click here to check query](creation_of_main_structure_functionality_dependencies.sql)
 ## Main Entities
