@@ -2,7 +2,7 @@
 
 A web application to manage and explore your personal book collection. Users can add books, view, sort, and filter by title, author, year, genre, and rating. The app helps track favorite reads and explore different genres easily.
 
-[View the project on GitHub](https://github.com/vavi00/lab1-web-tech-/tree/main/project-root) + [View of pages](view_of_page_of_lib.pdf)
+[View the project on GitHub](https://github.com/vavi00/lab1-web-tech-/tree/main/project-root) + [View of pages](web_tech_development_skill\view_of_page_of_lib.pdf)
 
 
 -----
